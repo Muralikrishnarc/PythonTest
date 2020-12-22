@@ -1,1 +1,2 @@
-primt("Sample")
+print("Sample")
+print("Altered")
