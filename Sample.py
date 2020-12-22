@@ -1,2 +1,2 @@
 print("Sample")
-print("Altered")
+print("Altered as new")
